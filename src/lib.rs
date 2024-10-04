@@ -1,4 +1,5 @@
 #![doc = include_str!("../README.md")]
+#![no_std]
 
 /// See [crate docs](`crate`).
 #[macro_export]
