@@ -1,0 +1,10 @@
+[package]
+name = "shorter-bounds"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+authors = [ "nanocryk" ]
+repository = "https://github.com/nanocryk/shorter-bounds"
+readme = "README.md"
+
+[dependencies]
