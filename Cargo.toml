@@ -1,11 +1,10 @@
 [package]
 name = "shorter-bounds"
-description = "Write shorter bounds with a trait alias macro."
-version = "0.1.0"
-edition = "2021"
-license = "MIT OR Apache-2.0"
 authors = [ "nanocryk" ]
-repository = "https://github.com/nanocryk/shorter-bounds"
+description = "Write shorter bounds with a trait alias macro."
+edition = "2021"
+keywords = [ "macro", "macros", "trait", "alias", "bounds" ]
+license = "MIT OR Apache-2.0"
 readme = "README.md"
-
-[dependencies]
+repository = "https://github.com/nanocryk/shorter-bounds"
+version = "0.1.1"
