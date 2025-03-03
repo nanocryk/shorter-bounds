@@ -32,7 +32,7 @@ shorter_bounds::alias!(
 );
 ```
 
-## Exemple
+## Example
 
 ```rust
 shorter_bounds::alias!(pub trait IterableOfClonable: Iterator<Item: Clone>);
